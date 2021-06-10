@@ -7,3 +7,4 @@ Mod 6
 Zmiana 4
 Zmiana 8
 Zmiana 9
+Zmiana 10a
